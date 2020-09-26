@@ -1,0 +1,10 @@
+.idea/
+CompositePattern/.classpath
+CompositePattern/.project
+CompositePattern/CompositePattern.iml
+CompositePattern/.settings/org.eclipse.jdt.core.prefs
+*.iml
+out/
+BridgePattern/.classpath
+BridgePattern/.project
+BridgePattern/.settings/org.eclipse.jdt.core.prefs
